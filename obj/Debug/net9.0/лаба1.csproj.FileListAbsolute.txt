@@ -1,0 +1,14 @@
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/bin/Debug/net9.0/лаба1
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/bin/Debug/net9.0/лаба1.deps.json
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/bin/Debug/net9.0/лаба1.runtimeconfig.json
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/bin/Debug/net9.0/лаба1.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/bin/Debug/net9.0/лаба1.pdb
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/obj/Debug/net9.0/лаба1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/obj/Debug/net9.0/лаба1.AssemblyInfoInputs.cache
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/obj/Debug/net9.0/лаба1.AssemblyInfo.cs
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/obj/Debug/net9.0/лаба1.csproj.CoreCompileInputs.cache
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/obj/Debug/net9.0/лаба1.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/obj/Debug/net9.0/refint/лаба1.dll
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/obj/Debug/net9.0/лаба1.pdb
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/obj/Debug/net9.0/лаба1.genruntimeconfig.cache
+/Users/dmitriisirinov/Desktop/нгту/2 курс/прога/лаба1/obj/Debug/net9.0/ref/лаба1.dll
